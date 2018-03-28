@@ -3,7 +3,7 @@
 
 ## はじめに
 
-レポジトリにあるソースは　http://editor.swagger.io/　を生成したものです。
+レポジトリにあるソースは　[http://editor.swagger.io/](http://editor.swagger.io/)　を生成したものです。
 
 上記サイトからそれぞれ以下をダウンロードしています。
 
